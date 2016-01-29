@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7d9039-fd36-4dc3-b78c-c52d73bd7991" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="6a7d9039-fd36-4dc3-b78c-c52d73bd7991" name="Default" comment="" />
     <ignored path="MySpringBooty.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -905,12 +902,12 @@
       <option name="number" value="Default" />
       <updated>1453971116879</updated>
       <workItem from="1453971119932" duration="12484000" />
-      <workItem from="1453994955079" duration="2052000" />
+      <workItem from="1453994955079" duration="2250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14536000" />
+    <option name="totallyTimeSpent" value="14734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="1" width="2902" height="1582" extended-state="0" />
